@@ -1,0 +1,1 @@
+This project is to practice all previous skills including commandline, GitHub repos, HTML basics and committing updates.
